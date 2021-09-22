@@ -1,0 +1,51 @@
+{
+    "fish_types": [
+        {
+            "name": "common fish",
+            "sell_price": "10",
+            "chance": 90
+        },
+        {
+            "name": "rare fish",
+            "sell_price": "25",
+            "chance": 30
+        },
+        {
+            "name": "epic fish",
+            "sell_price": "50",
+            "chance": 10
+        },
+        {
+            "name": "legendary fish",
+            "sell_price": "100",
+            "chance": 5
+        },
+        {
+            "name": "shark",
+            "sell_price": "150",
+            "chance": 2.5
+        }
+    ],
+    "other_items": [
+        {
+            "name": "boot",
+            "sell_price": "5",
+            "chance": 99
+        },
+        {
+            "name": "tin can",
+            "sell_price": "10",
+            "chance": 99
+        },
+        {
+            "name": "bark",
+            "sell_price": "2",
+            "chance": 99
+        },
+        {
+            "name": "seaweed",
+            "sell_price": "1",
+            "chance": 99
+        }
+    ]
+}
